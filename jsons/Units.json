@@ -8,8 +8,8 @@
 		"strength": 33,
 		"cost": 0,
 "uniques" : [
+"Limited to [1] per Civilization",
 "[3] additional attacks per turn",
-"Reveal up to [All] [Enemy Land] within a [100] tile radius <with [100]% chance>",
 ]
 		"attackSound": "phasers"
 	}

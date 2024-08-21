@@ -9,6 +9,7 @@
 		"cost": 0,
 "uniques" : [
 "Limited to [1] per Civilization",
+"Reveals the entire map",
 "[3] additional attacks per turn",
 ]
 		"attackSound": "phasers"

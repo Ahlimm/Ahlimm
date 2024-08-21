@@ -3,15 +3,14 @@
 		"name": "Phasers",
 		"unitType": "Ranged",
 		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
+		"replaces": "Scout,
 		"movement": 2,
 		"strength": 90,
 		"rangedStrength": 36,
 		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
+		"cost": 0,
+		"requiredTech": "Aggriculture",
+"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
 ]

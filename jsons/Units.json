@@ -4,13 +4,13 @@
 		"unitType": "Ranged",
 		"uniqueTo": "Aliens",
 		"replaces": "Scout",
-		"movement": 2,
+		"movement": 5,
 		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
+		"rangedStrength": 90,
+		"range": 3,
 		"cost": 0,
 		"requiredTech": "Agriculture",
-"promotions": ["Logistics","Accuracy I"],
+"promotions": ["Heal Instantly","Accuracy III","Barrage III","Extended Range","Indirect Fire","Blitz","Logistics","Woodsman","Survivalism III","March"],
 		"attackSound": "phasers"
 	}
 ]

@@ -15,7 +15,7 @@
 "Unit will heal every turn, even if it performs an action",
 "Reveals the entire map",
 "Reveal up to [All] within a [100] tile radius",
-"Gain control over [All] tiles in a [100]-tile radius",
+"Gain control over [All] tiles in a [4]-tile radius",
 "May found a religion",
 "May enhance a religion",
 "Can Spread Religion",

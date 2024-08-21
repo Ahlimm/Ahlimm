@@ -1,16 +1,17 @@
 [
 	{
 		"name": "Phasers",
-		"unitType": "Melee",
+		"unitType": "Civilian",
 		"uniqueTo": "Aliens",
 		"replaces": "Scout",
-		"movement": 5,
-		"strength": 33,
-		"cost": 0,
+		"movement": 50,
+"cost": 0,
 "uniques" : [
 "Limited to [1] per Civilization",
 "Empire enters a [100]-turn Golden Age",
 "Uncapturable",
+"Invisible to others",
+"Invisible to non-adjacent units",
 "Never appears as a Barbarian unit",
 "Unit will heal every turn, even if it performs an action",
 "May found a religion",
@@ -36,9 +37,6 @@
 "Can speed up the construction of a wonder",
 "Can hurry technology research",
 "No movement cost to pillage",
-"[3] additional attacks per turn",
-"Can move after attacking",
-"Heals [100] damage if it kills a unit",
 "May heal outside of friendly territory",
 "All healing effects doubled",
 

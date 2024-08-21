@@ -1,15 +1,13 @@
 [
 	{
 		"name": "Phasers",
-		"unitType": "Ranged",
+		"unitType": "Melee",
 		"uniqueTo": "Aliens",
 		"replaces": "Scout",
 		"movement": 5,
 		"strength": 90,
-		"rangedStrength": 90,
-		"range": 3,
 		"cost": 0,
-"promotions": ["Heal Instantly","Accuracy III","Barrage III","Extended Range","Indirect Fire","Blitz","Logistics","Woodsman","Survivalism III","March"],
+"promotions": ["Heal Instantly","Blitz","Logistics","Woodsman","Survivalism III","March"],
 		"attackSound": "phasers"
 	}
 ]

@@ -4,10 +4,10 @@
 		"replaces": "Palace",
 		"uniqueTo": "Aliens",
 		"cost": 0,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-"faith": 12,
+		"happiness": 15,
+		"culture": 15,
+		"science": 15,
+"faith": 15,
 		"maintenance": 0,
 		"isNationalWonder": true,
 "uniques":[
@@ -15,18 +15,20 @@
 "Reveals the entire map",
 "Reveal up to [All] [All] within a [100] tile radius",
 "Notified of new Barbarian encampments",
-"Gain control over [All] tiles in a [5]-tile radius",
 "Free [Phasers] appears"
 ]
 	},
 	{
 		"name": "Breeders",
-		"replaces": "Aqueduct",
 		"uniqueTo": "Aliens",
-		"cost": 80,
+		"cost": 0,
 		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["[40]% Food is carried over after population increases [in your cities]"],
-"requiredTech": "Engineering"
+			"happiness": 5,
+		"culture": 5,
+		"science": 5,
+"faith": 5,
+		"maintenance": 0,
+		"uniques": ["Gain control over [All] tiles in a [5]-tile radius"],
+"requiredTech": "Agriculture"
 	}
 ]

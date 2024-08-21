@@ -9,7 +9,7 @@
 		"rangedStrength": 36,
 		"range": 2,
 		"cost": 0,
-		"requiredTech": "Aggriculture",
+		"requiredTech": "Agriculture",
 "promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}

@@ -25,7 +25,7 @@
 		"hateYes": ["Gak apa-apa.", "Udah cukup oke.", "Ya udah lah..."],
 		
 		"afterPeace": "Ya udah deh, lagian ribut terus juga bosenin.",
-		"tradeRequest": Kami kasih loh kehormatan buat terima tawaran ini.",
+		"tradeRequest": "Kami kasih loh kehormatan buat terima tawaran ini.",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],

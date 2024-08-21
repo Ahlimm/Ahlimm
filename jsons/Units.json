@@ -5,9 +5,11 @@
 		"uniqueTo": "Aliens",
 		"replaces": "Scout",
 		"movement": 5,
-		"strength": 90,
+		"strength": 33,
 		"cost": 0,
-"promotions": ["Heal Instantly","Blitz","Logistics","Woodsman","Survivalism III","March"],
+"uniques" : [
+"[3] additional attacks per turn",
+]
 		"attackSound": "phasers"
 	}
 ]

@@ -35,9 +35,9 @@
 "No movement cost to pillage",
 "May heal outside of friendly territory",
 "All healing effects doubled",
-"[5] additional attacks per turn"
+"[5] additional attacks per turn",
+"Heals [200] damage if it kills a unit"
 ],
-"Heals [200] damage if it kills a unit",
 		"attackSound": "phasers"
 	}
 ]

@@ -16,7 +16,16 @@
 "Reveal up to [All] [All] within a [100] tile radius",
 "Notified of new Barbarian encampments",
 "Free [Phasers] appears",
-"Double quantity of [resource] produced"
+"Adopt [Tradition Complete]",
+"Adopt [Liberty Complete]",
+"Adopt [Honor Complete]",
+"Adopt [Piety Complete]",
+"Adopt [Patronage Complete]",
+"Adopt [Commerce Complete]",
+"Adopt [Rationalism Complete]",
+"Adopt [Freedom Complete]",
+"Adopt [Autocracy Complete]",
+"Adopt [Order Complete]"
 ]
 	},
 	{
@@ -24,8 +33,8 @@
 		"uniqueTo": "Aliens",
 		"cost": 0,
 		"hurryCostModifier": 160,
-		"gold": 50,
-		"production": 50,
+		"gold": 20,
+		"production": 20,
 		"maintenance": 0,
 		"uniques": ["Gain control over [All] tiles in a [5]-tile radius"
 ],

@@ -1,10 +1,10 @@
 [
 	{
 		"name": "Phasers",
-		"unitType": "Civilian",
+		"unitType": "Melee",
 		"uniqueTo": "Aliens",
 		"replaces": "Scout",
-		"movement": 94,
+		"movement": 100,
 "strength" : 200,
 "cost": 0,
 "promotions" : [
@@ -35,7 +35,7 @@
 "No movement cost to pillage",
 "May heal outside of friendly territory",
 "All healing effects doubled",
-"[5] additional attacks per turn",
+"[9] additional attacks per turn",
 "Heals [200] damage if it kills a unit"
 ],
 		"attackSound": "phasers"

@@ -8,7 +8,7 @@
 "strength" : 200,
 "cost": 0,
 "promotions" : [
-"heal instantly"
+"Heal Instantly"
 ]
 "uniques" : [
 "Limited to [1] per Civilization",
@@ -18,6 +18,7 @@
 "Invisible to non-adjacent units",
 "Never appears as a Barbarian unit",
 "Unit will heal every turn, even if it performs an action",
+"[200] HP when healing",
 "Can see over obstacles",
 "Can see invisible [All] units",
 "[3] Sight",
@@ -29,12 +30,14 @@
 "Ignores Zone of Control",
 "Can enter ice tiles",
 "May enter foreign tiles without open borders",
+"Transfer Movement to [All]",
 "Can instantly construct a [All] improvement",
 "No movement cost to pillage",
 "May heal outside of friendly territory",
 "All healing effects doubled",
 "[5] additional attacks per turn"
 ],
+"Heals [200] damage if it kills a unit",
 		"attackSound": "phasers"
 	}
 ]

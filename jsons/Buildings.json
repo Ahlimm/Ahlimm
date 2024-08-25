@@ -15,7 +15,7 @@
 "Reveals the entire map",
 "Reveal up to [All] [All] within a [100] tile radius",
 "Notified of new Barbarian encampments",
-"Gain a free [Breeders] [in this city]",
+"Free [Phasers] appears",
 "Double quantity of [resource] produced"
 ]
 	},
@@ -27,8 +27,7 @@
 		"gold": 50,
 		"production": 50,
 		"maintenance": 0,
-		"uniques": ["Gain control over [All] tiles in a [5]-tile radius",
-"Free [Phasers] appears"
+		"uniques": ["Gain control over [All] tiles in a [5]-tile radius"
 ],
 "requiredTech": "Agriculture"
 	}

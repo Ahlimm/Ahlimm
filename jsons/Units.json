@@ -2,7 +2,7 @@
 	{
 		"name": "Phasers",
 		"unitType": "Melee",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Ahlimm",
 		"replaces": "Scout",
 		"movement": 100,
 "strength" : 200,
@@ -30,7 +30,6 @@
 "Ignores Zone of Control",
 "Can enter ice tiles",
 "May enter foreign tiles without open borders",
-"Transfer Movement to [All]",
 "Can instantly construct a [All] improvement",
 "No movement cost to pillage",
 "May heal outside of friendly territory",

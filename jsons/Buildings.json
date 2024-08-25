@@ -2,7 +2,7 @@
 	{
 		"name": "Holodeck",
 		"replaces": "Palace",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Ahlimm",
 		"cost": 0,
 		"happiness": 20,
 		"culture": 20,
@@ -13,14 +13,13 @@
 "uniques":[
 "Indicates the capital city",
 "Reveals the entire map",
-"Reveal up to [All] [All] within a [100] tile radius",
 "Notified of new Barbarian encampments",
 "Free [Phasers] appears"
 ]
 	},
 	{
 		"name": "Breeders",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Ahlimm",
 		"cost": 0,
 		"hurryCostModifier": 160,
 		"gold": 20,

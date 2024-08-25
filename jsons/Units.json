@@ -5,8 +5,11 @@
 		"uniqueTo": "Aliens",
 		"replaces": "Scout",
 		"movement": 94,
-"strength" : 33,
+"strength" : 200,
 "cost": 0,
+"promotions" : [
+"heal instantly"
+]
 "uniques" : [
 "Limited to [1] per Civilization",
 "Empire enters a [100]-turn Golden Age",
@@ -30,7 +33,7 @@
 "No movement cost to pillage",
 "May heal outside of friendly territory",
 "All healing effects doubled",
-"[3] additional attacks per turn"
+"[5] additional attacks per turn"
 ],
 		"attackSound": "phasers"
 	}

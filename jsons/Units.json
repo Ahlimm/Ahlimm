@@ -5,6 +5,7 @@
 		"uniqueTo": "Aliens",
 		"replaces": "Scout",
 		"movement": 94,
+"strength" : 33,
 "cost": 0,
 "uniques" : [
 "Limited to [1] per Civilization",
@@ -29,8 +30,8 @@
 "No movement cost to pillage",
 "May heal outside of friendly territory",
 "All healing effects doubled",
-
-]
+"[3] additional attacks per turn"
+],
 		"attackSound": "phasers"
 	}
 ]

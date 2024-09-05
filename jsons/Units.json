@@ -2,7 +2,7 @@
 	{
 		"name": "Phasers",
 		"unitType": "Melee",
-		"uniqueTo": "Ahlimm",
+		"uniqueTo": "Upside_Down",
 		"replaces": "Scout",
 		"movement": 100,
 "strength" : 200,

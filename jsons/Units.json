@@ -35,10 +35,8 @@
 "May heal outside of friendly territory",
 "All healing effects doubled",
 "[99] additional attacks per turn",
-"Can perform Air Sweep",
-"[100]% Strength when performing Air Sweep",
 "[100]% chance to intercept air attacks",
-"[100] extra interceptions may be made per turn",
+"[99] extra interceptions may be made per turn",
 "Heals [200] damage if it kills a unit"
 ],
 		"attackSound": "phasers"
